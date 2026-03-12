@@ -9,7 +9,6 @@
 - 💻 Working with **Python, C, and Verilog**
 - 🧠 Learning **Cadence, Synopsys & ASIC Design**
 - 🌱 Currently exploring **Machine Learning and Hardware Design**
-- 📫 Reach me at: **harshaabhi@example.com**
 
 ---
 
@@ -29,10 +28,10 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Top Languages
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Born-as-Harsha&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Born-as-Harsha&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
