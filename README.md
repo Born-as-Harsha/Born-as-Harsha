@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshavardhan</h1>
+<h3 align="center">Electronics & Communication Engineering Student | VLSI & Semiconductor Enthusiast</h3>
 
-<!--
-**Born-as-Harsha/Born-as-Harsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 B.Tech ECE Student at **KL University**
+- 🔬 Interested in **VLSI Design & Semiconductor Technology**
+- 💻 Working with **Python, C, and Verilog**
+- 🧠 Learning **Cadence, Synopsys & ASIC Design**
+- 🌱 Currently exploring **Machine Learning and Hardware Design**
+- 📫 Reach me at: **harshaabhi@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Born-as-Harsha&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Born-as-Harsha&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/harshaabhi">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
