@@ -154,7 +154,7 @@ Fully responsive personal portfolio built with React + Vite + Tailwind. Live on 
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 [ ✅ ] Build a strong academic resource repo
