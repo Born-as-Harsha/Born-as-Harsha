@@ -1,8 +1,4 @@
-<div align="center">
-
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=99999&color=FFFFFF&background=0F0C2900&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=HARSHA+VARDHAN;Electronics+%26+Communication+Engineer+%7C+VLSI+%26+Semiconductor+Enthusiast)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Harsha%20Vardhan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20VLSI%20%26%20Semiconductor%20Enthusiast&descAlignY=62&descSize=15" width="100%"/>
 
 <div align="center">
 
@@ -15,7 +11,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<br/>
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=BTech+ECE+%40+KL+University+%F0%9F%8E%93;VLSI+%26+Semiconductor+Enthusiast+%F0%9F%94%AC;Django+%26+Full+Stack+Developer+%F0%9F%90%8D;Hardware+%2B+AI+Integration+Explorer+%F0%9F%A4%96;307+Contributions+%26+Counting+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -24,7 +22,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Born-as-Harsha&label=PROFILE+VIEWS&color=7B2FBE&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/Born-as-Harsha?style=for-the-badge&logo=github&color=00C9FF&labelColor=0d1117)](https://github.com/Born-as-Harsha?tab=followers)
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-LIVE-00E676?style=for-the-badge&labelColor=0d1117)](https://harsha-portfolio-2026.vercel.app)
-![Last Commit](https://img.shields.io/github/last-commit/Born-as-Harsha/KL-University-BTech-Resources?style=for-the-badge&label=🕐+LAST+PUSH&color=FFD700&labelColor=0d1117)
+![Last Commit](https://img.shields.io/github/last-commit/Born-as-Harsha/KL-University-BTech-ECE-Resources?style=for-the-badge&label=🕐+LAST+PUSH&color=FFD700&labelColor=0d1117)
 
 </div>
 
@@ -83,16 +81,17 @@ class HarshaVardhan:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Born-as-Harsha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=FFD700&text_color=ffffff&ring_color=7B2FBE" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Born-as-Harsha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Born-as-Harsha&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Born-as-Harsha&theme=tokyonight&hide_border=true&background=0d1117&ring=7B2FBE&fire=FFD700&currStreakLabel=00C9FF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Born-as-Harsha&theme=tokyonight" width="95%"/>
 
 <br/><br/>
 
-<img src="https://activity-graph.demolab.com/graph?username=Born-as-Harsha&theme=react-dark&bg_color=0d1117&color=00C9FF&line=7B2FBE&point=FFD700&area=true&hide_border=true" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Born-as-Harsha&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Born-as-Harsha&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Born-as-Harsha&theme=tokyonight" />
 
 </div>
 
@@ -102,30 +101,14 @@ class HarshaVardhan:
 
 <div align="center">
 
-<a href="https://github.com/Born-as-Harsha/Python-Full-Stack-Development">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Born-as-Harsha&repo=Python-Full-Stack-Development&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=FFD700&text_color=ffffff" />
-</a>
-<a href="https://github.com/Born-as-Harsha/KL-University-BTech-ECE-Resources">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Born-as-Harsha&repo=KL-University-BTech-ECE-Resources&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=FFD700&text_color=ffffff" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Born-as-Harsha/Harsha-Python-Full-Stack-Devlopment-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Born-as-Harsha&repo=Harsha-Python-Full-Stack-Devlopment-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=FFD700&text_color=ffffff" />
-</a>
-<a href="https://github.com/Born-as-Harsha/harsha-portfolio-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Born-as-Harsha&repo=harsha-portfolio-2026&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=FFD700&text_color=ffffff" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Born-as-Harsha/EC9036_ASIC_DESIGN_USING_HDL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Born-as-Harsha&repo=EC9036_ASIC_DESIGN_USING_HDL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=FFD700&text_color=ffffff" />
-</a>
-<a href="https://github.com/Born-as-Harsha/Quant-Resources">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Born-as-Harsha&repo=Quant-Resources&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=FFD700&text_color=ffffff" />
-</a>
+| 🏷️ Project | 📝 Description | 🛠️ Stack | ⭐ Stars | 🔗 |
+|---|---|---|---|---|
+| **Python-Full-Stack-Development** | Student Activity Management System | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Born-as-Harsha/Python-Full-Stack-Development?style=flat-square&color=FFD700&labelColor=0d1117) | [View →](https://github.com/Born-as-Harsha/Python-Full-Stack-Development) |
+| **KL-University-BTech-ECE-Resources** | BTech resources — notes, PPTs, topics | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Born-as-Harsha/KL-University-BTech-ECE-Resources?style=flat-square&color=FFD700&labelColor=0d1117) | [View →](https://github.com/Born-as-Harsha/KL-University-BTech-ECE-Resources) |
+| **Harsha-Python-Full-Stack-Devlopment-Project** | Django MVT full stack web app | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Born-as-Harsha/Harsha-Python-Full-Stack-Devlopment-Project?style=flat-square&color=FFD700&labelColor=0d1117) | [View →](https://github.com/Born-as-Harsha/Harsha-Python-Full-Stack-Devlopment-Project) |
+| **harsha-portfolio-2026** | Personal portfolio website | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Stars](https://img.shields.io/github/stars/Born-as-Harsha/harsha-portfolio-2026?style=flat-square&color=FFD700&labelColor=0d1117) | [View →](https://github.com/Born-as-Harsha/harsha-portfolio-2026) |
+| **EC9036_ASIC_DESIGN_USING_HDL** | ASIC design course documents | ![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Born-as-Harsha/EC9036_ASIC_DESIGN_USING_HDL?style=flat-square&color=FFD700&labelColor=0d1117) | [View →](https://github.com/Born-as-Harsha/EC9036_ASIC_DESIGN_USING_HDL) |
+| **Quant-Resources** | Resources for Quantitative Developers | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Born-as-Harsha/Quant-Resources?style=flat-square&color=FFD700&labelColor=0d1117) | [View →](https://github.com/Born-as-Harsha/Quant-Resources) |
 
 </div>
 
@@ -193,8 +176,12 @@ class HarshaVardhan:
 
 [![Star](https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&labelColor=0d1117)](https://github.com/Born-as-Harsha?tab=repositories)
 
-<br/>
+</div>
 
-![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=99999&color=7B2FBE&background=00000000&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Harsha+Vardhan+%7C+KL+University+2026)
+<div align="center">
+
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=99999&color=00C9FF&background=00000000&center=true&vCenter=true&repeat=false&width=620&height=30&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Harsha+Vardhan+%7C+KL+University+2026+%7C+Open+to+Internships+%F0%9F%9A%80)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&animation=fadeIn&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20if%20you%20like%20it&fontAlignY=75" width="100%"/>
